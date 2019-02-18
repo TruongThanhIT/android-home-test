@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="all_loading_20dp">20dp</dimen>
+    <dimen name="all_padding_8dp">8dp</dimen>
+    <dimen name="all_card_radius_8dp">8dp</dimen>
+    <dimen name="max_width_item_fragment_keyword">70dp</dimen>
+
+    <dimen name="item_8dp">8dp</dimen>
+    <dimen name="item_10">10dp</dimen>
+    <dimen name="item_20">20dp</dimen>
+</resources>

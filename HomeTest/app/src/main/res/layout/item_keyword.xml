@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cvItemKeyWord"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/cardview_dark_background"
+    android:layout_marginRight="@dimen/all_padding_8dp"
+    app:cardCornerRadius="@dimen/all_card_radius_8dp">
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:maxLines="2"
+        android:minLines="2"
+        android:padding="@dimen/all_padding_8dp"
+        android:textColor="@android:color/white"
+        tools:text="bitis hunter"/>
+</android.support.v7.widget.CardView>

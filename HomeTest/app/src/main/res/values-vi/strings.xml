@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyword_msg_error">Lỗi trong quá trình tải dữ liệu. Vui lòng thử lại!</string>
+    <string name="key_hot">Từ khóa hot</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">HomeTest</string>
+    <string name="keyword_msg_error">Oops! Something\'s wrong. please try again!</string>
+    <string name="key_hot">Hot keywords</string>
+</resources>
